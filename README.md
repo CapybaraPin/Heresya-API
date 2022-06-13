@@ -9,6 +9,10 @@ API : This API uses InGame and website data to provide accurate information abou
 https://heresya.fr/users/?pseudo=nickname
 ```
 
+```
+Exemple : https://heresya.fr/users/?pseudo=ImJustCapy
+```
+
 <h1>API return</h1>
 
 <li>ID (Identifier)</li>
